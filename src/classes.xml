@@ -1,0 +1,15 @@
+<NMotivFrauda>
+  <id></id>
+  <status></status>
+  <valoare></valoare>
+  <yesno>
+      <id></id>
+      <status></status>
+      <nested>
+        <end></end>
+        <inception>
+          <triple></triple>
+        </inception>
+      </nested>
+  </yesno>
+</NMotivFrauda>
